@@ -1,0 +1,25 @@
+{
+  "name": "study_typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "prestart": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pearl0304/typescript-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pearl0304/typescript-study/issues"
+  },
+  "homepage": "https://github.com/pearl0304/typescript-study#readme",
+  "dependencies": {
+    "typescript": "^4.6.2"
+  }
+}
