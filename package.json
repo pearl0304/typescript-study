@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/pearl0304/typescript-study#readme",
   "dependencies": {
+    "crypto-js": "^4.1.1",
     "nodemon": "^2.0.15",
     "typescript": "^4.6.2"
   },
